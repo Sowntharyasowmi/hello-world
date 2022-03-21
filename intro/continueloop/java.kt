@@ -1,0 +1,4 @@
+package continueloop
+
+class java {
+}
